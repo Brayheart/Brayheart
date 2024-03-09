@@ -1,11 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Tyler Bray</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=brayheart&label=Profile%20views&color=0e75b6&style=flat" alt="brayheart" /> </p>
+
 <h3 align="center">A passionate frontend developer from Los Angeles, California</h3>
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart&" alt="brayheart" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayheart&rank=SSS,SS,S,AAA,AA,A&column=3" alt="brayheart" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=brayheart&label=Profile%20views&color=0e75b6&style=flat" alt="brayheart" /> </p>
 
 - 🔭 I’m currently working on [audiophile](https://github.com/Brayheart/audiophile)
 
