@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.tylerbray.dev](www.tylerbray.dev)
+- 👨‍💻 All of my projects are available at [www.tylerbray.dev](https://www.tylerbray.dev)
 
 - 💬 Ask me about **My published research!**
 
