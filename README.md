@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Los Angeles, California</h3>
 
 
-<p style="display: flex; justify-content: center; margin: 30px 0px;" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart&" alt="brayheart" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart&" alt="brayheart" /></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayheart&rank=SSS,SS,S,AAA,AA,A" alt="brayheart" /></a> </p> -->
 
 - 🔭 I’m currently working on [audiophile](https://github.com/Brayheart/audiophile)
