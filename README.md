@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Tyler Bray</h1>
 
-<h3 align="center">A passionate frontend developer from Los Angeles, California</h3>
+<h3 align="center">A Former Gartner Expert from Los Angeles, California</h3>
 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart" alt="brayheart" /></p>
