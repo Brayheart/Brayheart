@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [www.tylerbray.dev](https://www.tylerbray.dev)
-
 - 💬 Ask me about **My published research!**
 
 - 📫 How to reach me **tylerhbray@gmail.com**
