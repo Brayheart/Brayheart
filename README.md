@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [audiophile](https://github.com/Brayheart/audiophile)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** 
 
 - 💬 Ask me about **My published research!**
 
