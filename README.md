@@ -6,7 +6,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart" alt="brayheart" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayheart&rank=SSS,SS,S,AAA,AA,A&column=4" alt="brayheart" /></a> </p>
-
+<p align="center">We are what we repeatedly do. Greatness then, is not an act, but a habit</p>p
 - 💬 Ask me about **My published research!**
 
 - 📫 How to reach me **tylerhbray@gmail.com**
