@@ -1,17 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Tyler Bray</h1>
-
-<h3 align="center">A Former Gartner Expert from Los Angeles, California</h3>
-
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brayheart" alt="brayheart" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brayheart&rank=SSS,SS,S,AAA,AA,A&column=4" alt="brayheart" /></a> </p>
-<p align="center">We are what we repeatedly do. Greatness then, is not an act, but a habit -Will Durant</p>
-
-- 💬 Ask me about **My published research!**
-
-- 📫 How to reach me **tylerhbray@gmail.com**
-
+<h1 align="center">Hi 👋, I'm Tyler</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/tylerhbray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tylerhbray" height="30" width="40" /></a>
